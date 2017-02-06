@@ -1,5 +1,5 @@
 img { 
-    width: 200px; 
+    width: 50%; 
 } 
 body { 
     text-align: center; 
@@ -8,4 +8,8 @@ body {
     text-align: center; 
     font-family: "Arial"; 
 } 
- 
+
+.who {
+    background: url("http://i.imgur.com/k2t6dLE.jpg");
+    
+}
